@@ -30,4 +30,8 @@ Evaluation done on:
 Results:
 - A
 - B
+
 - C
+
+## Release
+[![Download](https://img.shields.io/github/v/release/IdkWhyDev/TestRepo?label=Download&style=for-the-badge)](https://github.com/IdkWhyDev/TestRepo/releases/latest)
