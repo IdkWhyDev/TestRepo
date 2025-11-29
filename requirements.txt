@@ -1,0 +1,8 @@
+# jupyter
+google-genai
+google-auth-oauthlib
+google-api-python-client
+# joblib
+onnxruntime
+pyinstaller
+watchdog
